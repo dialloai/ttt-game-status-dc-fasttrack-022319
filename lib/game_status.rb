@@ -17,3 +17,4 @@ WIN_COMBINATIONS = [
 
   ]
   
+  for each win_combination in WIN_COMBINATIONS
